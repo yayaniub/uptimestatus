@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'IMSYY 站点监测',
+  SiteName: 'MEET EN SEVERS MONITOR',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'u1022423-6ffcda436b183008644c691c',
+    'u1987241-30fab4e18f2230c07360da27',
   ],
 
   // 日志天数
@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.imsyy.top/'
+      url: 'https://monitor.api.en.icu'
     },
     {
       text: '博客',
-      url: 'https://blog.imsyy.top/'
+      url: 'https:/en.icu'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/imsyy/'
+      url: 'https://github.com/king-zhangbn/'
     },
   ],
 };
